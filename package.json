@@ -1,0 +1,14 @@
+{
+  "name": "oas_test",
+  "version": "1.0.0",
+  "description": "Test repo for testing OAS",
+  "main": "api.js",
+  "scripts": {
+    "test": "test"
+  },
+  "dependencies": {
+    "oas": "5.0.0"
+  },
+  "author": "chiuk12@gmail.com",
+  "license": "ISC"
+}
